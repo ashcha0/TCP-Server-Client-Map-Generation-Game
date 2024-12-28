@@ -38,12 +38,12 @@
 
 1. 启动服务器：
     ```bash
-    ./server.exe
+    server.exe
     ```
 
 2. 启动客户端：
     ```bash
-    ./client.exe
+    client.exe
     ```
 
 3. 在客户端输入`W`, `A`, `S`, `D`来控制玩家的移动。
